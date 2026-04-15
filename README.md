@@ -1,16 +1,46 @@
-## Hi there 👋
+# Fala aí! Eu sou o Vinícius :)
 
-<!--
-**vinicius2279/vinicius2279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudante da área de Tecnologia da Informação
+- Focado em desenvolvimento e análise de dados  
+- Focado em projetos práticos 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Tecnologias e Ferramentas
+
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+</p>
+
+---
+
+
+## Estatísticas do GitHub
+
+<div>
+<a href="https://github.com/vinicius2279](https://www.linkedin.com/in/vinicius-cabral-182706252">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2279&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+---
+
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/vinicius-cabral-182706252
+
+Instagram: https://www.instagram.com/viinicabral/
