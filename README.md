@@ -32,9 +32,7 @@
 ## Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/vinicius2279">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2279&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinicius2279&layout=compact"/>
 </div>
 
 ---
